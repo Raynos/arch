@@ -4,11 +4,11 @@ Arch is an attempt at a toolkit-framework.
 
 Arch exposes a set of tools
 
- - [stack][1]
+ - [stak][1]
  - [rest][2]
  - [trinity][3]
  - [error][4]
- - [f][5]
+ - [fcombine][5]
  - [tester][6]
  - [pd][7]
  - [after][8]
@@ -17,7 +17,7 @@ That can be used together to build web applications.
 
 ## Blog posts
 
-[arch and toolkit frameworks][10]
+Coming Soon - [arch and toolkit frameworks][10]
 
 ## Examples
 
@@ -47,11 +47,11 @@ A static file router that can be used with stack
 
 Loads a folder of resources and passes the instance of rest to them.
 
-   [1]: http://www.github.com/Raynos/stack
+   [1]: http://www.github.com/Raynos/stak
    [2]: http://www.github.com/Raynos/rest
    [3]: http://www.github.com/Raynos/trinity
    [4]: http://www.github.com/Raynos/error
-   [5]: http://www.github.com/Raynos/f
+   [5]: http://www.github.com/Raynos/fcombine
    [6]: http://www.github.com/Raynos/tester
    [7]: http://www.github.com/Raynos/pd
    [8]: http://www.github.com/Raynos/after.js
