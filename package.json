@@ -1,0 +1,22 @@
+{
+	"name": "arch",
+	"version": "0.0.1",
+	"description": "A small toolkit-framework",
+	"keywords": ["server", "http", "framework", "toolkit", "arch"],
+	"author": "Jake Verbaten <raynos2@gmail.com>",
+	"dependencies": {
+		"stak": "0.0.2",
+		"error": "0.0.1",
+		"rest": "0.0.1",
+		"fcombine": "0.0.3",
+		"after": "0.1.6",
+		"pd": "0.2.1"
+	},
+	"devDependencies": {
+		"tester": "0.0.2"	
+	},
+	"main": "src/arch",
+	"engines": {
+		"node": "0.5.x"
+	}
+}
