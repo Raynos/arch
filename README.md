@@ -15,6 +15,10 @@ Arch exposes a set of tools
 
 That can be used together to build web applications.
 
+## Status beta
+
+arch will go under redesign to allow compatibility with flatiron & express
+
 ## Blog posts
 
 Coming Soon - [arch and toolkit frameworks][10]
